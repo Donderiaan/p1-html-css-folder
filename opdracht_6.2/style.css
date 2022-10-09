@@ -1,0 +1,44 @@
+.container
+{
+    width: 100%;
+    height: auto;
+    background: #007bbf;
+    display: flex;
+    
+}
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.box2
+{
+    width: 200px;
+    height: 200px;
+    background: black;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.box3
+{
+    width: 200px;
+    height: 200px;
+    background: red;
+    margin: 20px;
+    box-sizing: border-box;
+}
+
+.box4
+{
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin: 20px;
+    box-sizing: border-box;
+}
